@@ -46,6 +46,10 @@ body {
   cursor: pointer;
 }
 
+.square.x {
+  color: red;
+}
+
 .square:hover {
   background: #eaeaea;
 }
